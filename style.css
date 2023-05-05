@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:url(https://img.freepik.com/premium-photo/texture-old-faded-light-beige-paper-with-copy-space_213524-444.jpg?w=2000) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column ;
+}
+h1{
+    text-align: center;
+    margin: 100px;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(97, 46, 46);
+    font-weight: bold;
+}
+form{
+    text-align: center;
+}
+input{
+    width: 150px;
+    height: 45px;
+    border-radius: 20px;
+    border: 0.5px solid gray;
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+#submit{
+    width: 130px;
+    height: 50px;
+    border: 0.5px gray solid;
+    border-radius: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    background-color: rgb(41, 40, 40);
+    color: white;
+    font-size: 18px;
+
+}
+#submit:hover{
+    background-color: rgb(106, 103, 103);
+}
+p{
+    text-align: center;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+div{
+    background-color: aliceblue;
+    width: 250px;
+    margin: auto;
+    height: 100px;
+    border-radius: 20px;
+    
+}
+ footer{
+    text-align: center;
+    margin: 50px;
+    font-size: 15px;
+    color: rgb(82, 30, 30);
+ }
