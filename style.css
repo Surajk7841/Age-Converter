@@ -65,4 +65,7 @@ div{
  }
 
 .divv{
-    border:0.5px solid gray}
+    border:0.5px solid gray;
+    height:400px;
+    width:400px;
+}
