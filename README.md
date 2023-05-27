@@ -1,6 +1,6 @@
 # Age-Converter
 
-![Alt Text](https://github.com/Surajk7841/Age-Converter/blob/main/img.png)
+![Alt Text](https://github.com/Surajk7841/Age-Converter/blob/main/images/img.png)
 
 Convert age from years to months or days. (HTML, CSS and JavaScript)
 
